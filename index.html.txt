@@ -6,6 +6,7 @@
 <body>
 
 <p> This is my first project that I am working with through Git </p>
+<p> This is a test </p>
 
 </body>
 </html>
